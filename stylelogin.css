@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("yuhu.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 860px;
+
+
+
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    position: absolute;
+    top: 230px;
+    left: 66%;
+    
+}
+.form-login{
+    width: 300px;
+    height:200px;
+    text-align: center;
+    background-color: rgba(198, 207, 211, 0.4);
+    border-radius: 9px;
+    margin: 50;
+    margin-top: 262px;
+    margin-left: 500px;
+    box-shadow: 0 0px 7px 0px black;
+}
+
+    
+

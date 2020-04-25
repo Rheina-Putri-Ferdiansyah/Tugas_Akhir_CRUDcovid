@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("hujan.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 900px;
+
+}
